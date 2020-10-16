@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "neo4j-graphql-js": "^2.14.4",
+    "apollo-server": "^2.15.1",
+    "dotenv": "^8.2.0"
+  }
+}
